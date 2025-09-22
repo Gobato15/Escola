@@ -55,7 +55,7 @@ private Aluno a;
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 
-        jLabel1.setText("Aluno Cadastrado");
+        jLabel1.setText("ALUNO CADASTRADO");
 
         jPanel1.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
